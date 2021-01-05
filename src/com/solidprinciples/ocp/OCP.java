@@ -1,4 +1,4 @@
-// OCP + Specification design pattern
+// Open-Closed Principle (OCP) + Specification design pattern
 
 package solidprinciples.ocp;
 

@@ -1,4 +1,4 @@
-// ISP
+// Interface Segregation Principle (ISP)
 
 package solidprinciples.isp;
 

@@ -1,4 +1,4 @@
-// SRP
+// Single Responsibility Principle (SRP)
 
 package solidprinciples.srp;
 

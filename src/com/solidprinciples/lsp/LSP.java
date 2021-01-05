@@ -1,4 +1,4 @@
-// LSP
+// Liskov Substitution Principle (LSP)
 
 package solidprinciples.lsp;
 
