@@ -1,6 +1,6 @@
 // OCP + Specification design pattern
 
-package com.solidprinciples.ocp;
+package solidprinciples.ocp;
 
 import java.util.List;
 import java.util.stream.Stream;

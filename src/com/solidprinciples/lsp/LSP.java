@@ -1,6 +1,6 @@
 // LSP
 
-package com.solidprinciples.lsp;
+package solidprinciples.lsp;
 
 import org.w3c.dom.css.Rect;
 

@@ -1,6 +1,6 @@
 // SRP
 
-package com.solidprinciples.srp;
+package solidprinciples.srp;
 
 import java.io.*;
 import java.net.URL;

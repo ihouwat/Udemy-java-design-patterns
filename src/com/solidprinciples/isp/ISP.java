@@ -1,6 +1,6 @@
 // ISP
 
-package com.solidprinciples.isp;
+package solidprinciples.isp;
 
 import javax.print.Doc;
 
