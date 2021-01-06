@@ -75,7 +75,7 @@ class Research // high-level module, allows us to perform operations on lower-le
 //            ));
 //    }
 
-    //Correct implementation extends abstract interface
+    //Correct implementation uses abstract interface
     public Research(RelationshipBrowser browser) {
         List<Person> children = browser.findAllChildrenOf("John");
         for (Person child : children)
