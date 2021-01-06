@@ -81,7 +81,7 @@ class RectangleFactory {
     }
 }
 
-class Demo {
+class LSPDemo {
     static void useIt(Rectangle r) {
         int width = r.getWidth();
         r.setHeight(10); // bad setter because it makes sense for a rect but not square

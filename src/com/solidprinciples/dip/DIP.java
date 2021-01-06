@@ -83,7 +83,7 @@ class Research // high-level module, allows us to perform operations on lower-le
     }
 }
 
-class Demo {
+class DIPDemo {
     public static void main(String[] args) {
         Person parent = new Person("John");
         Person child1 = new Person("Chris");
