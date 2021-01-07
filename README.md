@@ -8,3 +8,7 @@ The files in this repository are based on the material and exercises from the Ud
 - [Interface Segregation Principle (ISP)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/solidprinciples/isp/ISP.java)
 - [Dependency Inversion Principle (DIP)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/solidprinciples/dip/DIP.java)
 ### Builder
+- [Builder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/Builder.java)
+- [Fluent Builder Inheritance with Recursive Generics](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/RecursiveGenerics.java)
+- [Faceted Builder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/facets/BuilderFacets.java)
+- [Exercise - CodeBuilder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/CodeBuilder.java)
