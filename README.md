@@ -1,6 +1,6 @@
 # Design Patterns in Java
 The files in this repository are based on the material and exercises from the Udemy course, [Design Patterns in Java](https://www.udemy.com/course/design-patterns-java/) by [Dmitri Nesteruk](https://www.udemy.com/user/dmitrinesteruk/).
-## Contents
+## Creational Patterns
 ### SOLID Design Principles 
 - [Single Responsibility Principle (SRP)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/solidprinciples/srp/SRP.java)
 - [Open-Closed Principle (OCP)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/solidprinciples/ocp/OCP.java)
@@ -12,3 +12,8 @@ The files in this repository are based on the material and exercises from the Ud
 - [Fluent Builder Inheritance with Recursive Generics](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/RecursiveGenerics.java)
 - [Faceted Builder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/facets/BuilderFacets.java)
 - [Exercise - CodeBuilder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/CodeBuilder.java)
+### Factory
+- [Factory Method]()
+- [Factory Class]()
+- [Abstract Factory]()
+- [Exercise for this section]()
