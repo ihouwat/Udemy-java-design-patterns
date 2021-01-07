@@ -13,7 +13,7 @@ The files in this repository are based on the material and exercises from the Ud
 - [Faceted Builder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/facets/BuilderFacets.java)
 - [Exercise - CodeBuilder](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/builder/CodeBuilder.java)
 ### Factory
-- [Factory Method]()
-- [Factory Class]()
-- [Abstract Factory]()
-- [Exercise for this section]()
+- [Factory Method](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/FactoryMethod.java)
+- [Factory Class](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/Factory.java)
+- [Abstract Factory](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/AbstractFactory.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/FactoryCodingExercise.java)
