@@ -18,7 +18,7 @@ The files in this repository are based on the material and exercises from the Ud
 - [Abstract Factory](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/AbstractFactory.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/factories/FactoryCodingExercise.java)
 ### Prototype
-- [Cloneables exmample - avoid this]()
-- [Copy Constructors]()
-- [Copy Through Serialization]()
-- [Exercise for this section]()
+- [Cloneables example - avoid this](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/cloneable/CloneablesBad.java)
+- [Copy Constructors](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/CopyConstructors.java)
+- [Copy Through Serialization](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/CopyThroughSerialization.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/PrototypeCodingExercise.java)
