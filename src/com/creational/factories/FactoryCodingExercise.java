@@ -1,7 +1,7 @@
-/* Factory section exercise: given a class Person with two fields, id and name,
-    implement a non-static PersonFactory that has a createPerson() that takes a person's name
-    and returns a new instance of Person. The id returned is set on a 0-based index
-
+/*
+Factory section exercise: given a class Person with two fields, id and name,
+implement a non-static PersonFactory that has a createPerson() that takes a person's name
+and returns a new instance of Person. The id returned is set on a 0-based index
  */
 
 package creational.factories;
