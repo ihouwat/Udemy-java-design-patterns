@@ -22,3 +22,12 @@ The files in this repository are based on the material and exercises from the Ud
 - [Copy Constructors](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/CopyConstructors.java)
 - [Copy Through Serialization](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/CopyThroughSerialization.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/prototype/PrototypeCodingExercise.java)
+### Singleton
+- [Basic Singleton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/BasicSingleton.java)
+- [Static Block Singleton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/StaticBlockSingleton.java)
+- [Lazy Singleton / Inner Static Singleton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/LazySingleton.java)
+- [Enum Based Singleton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/EnumBasedSingleton.java)
+- [Monostate](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/MonostateSingleton.java)
+- [Multiton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/Multiton.java)
+- [Singleton Testability Problems](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonTestability.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonCodingExercise.java)
