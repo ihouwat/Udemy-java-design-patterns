@@ -44,14 +44,14 @@ class SingletonDatabase implements Database // here, we have an idea of an abstr
                     .getCodeSource().getLocation().getPath()
             );
 
-            Path fullPath = Paths.get(f.getPath(), "capitals.txt");
+            Path fullPath = Paths.get(file.getPath(), "capitals.txt");
             List<String> lines = Files.readAllLines(fullPath);
 
-            Iterables.partition(lines, 2)
-                    .forEach(kv -> capitals.put(
-                        kv.get(0).trim(),
-                        Integer.parseInt(kv.get(1))
-                    ));
+//            Iterables.partition(lines, 2)
+//                    .forEach(kv -> capitals.put(
+//                        kv.get(0).trim(),
+//                        Integer.parseInt(kv.get(1))
+//                    ));
         }
         catch (Exception e)
         {
