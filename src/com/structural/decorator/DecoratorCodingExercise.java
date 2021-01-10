@@ -31,7 +31,7 @@ class Dragon {
     private Bird bird = new Bird();
     private Lizard lizard = new Lizard();
 
-    // Need empty cons
+    // Need empty constructor
     public Dragon() {}
 
     public void setAge(int age)
