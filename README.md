@@ -42,3 +42,15 @@ The files in this repository are based on the material and exercises from the Ud
 - [Composite: Geometric Shapes](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeGeometricShapes.java)
 - [Composite: Neural Networks](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeNeuralNetworks.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeCodingExercise.java)
+### Decorator
+- [String class Decorator](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/decorator/StringDecorator.java)
+- [Dynamic Decorator](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/decorator/dynamic/DynamicDecorator.java)
+- [Static Decorator](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/decorator/statik/StaticDecorator.java)
+- [Adapter-Decorator](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/decorator/adapter/AdapterDecorator.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/decorator/DecoratorCodingExercise.java)
+### Facade
+- [Facade](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/facade/Facade.java)
+### Flyweight
+- [Duplicate Users](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/Users.java)
+- [Text Formatting](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/TextFormatting.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/FlyeweightCodingExercise.java)
