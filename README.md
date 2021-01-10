@@ -31,6 +31,7 @@ The files in this repository are based on the material and exercises from the Ud
 - [Multiton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/Multiton.java)
 - [Singleton Testability Problems](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonTestability.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonCodingExercise.java)
+## Structural Patterns
 ### Adapter
 - [Adapter](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/adapter/Adapter.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/adapter/AdapterCodingExercise.java)
