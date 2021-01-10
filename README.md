@@ -31,3 +31,13 @@ The files in this repository are based on the material and exercises from the Ud
 - [Multiton](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/Multiton.java)
 - [Singleton Testability Problems](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonTestability.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/creational/singleton/SingletonCodingExercise.java)
+### Adapter
+- [Adapter](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/adapter/Adapter.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/adapter/AdapterCodingExercise.java)
+### Bridge
+- [Bridge](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/bridge/Bridge.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/bridge/exercise/BridgeCodingExercise.java)
+### Composite
+- [Composite: Geometric Shapes](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeGeometricShapes.java)
+- [Composite: Neural Networks](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeNeuralNetworks.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/composite/CompositeCodingExercise.java)
