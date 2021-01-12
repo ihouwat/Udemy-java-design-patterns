@@ -86,7 +86,7 @@ class CORExerciseDemo
 
         game.creatures.add(goblin);
         game.creatures.add(goblin2);
-//        game.creatures.add(goblin3);
+        game.creatures.add(goblin3);
         game.creatures.add(goblinKing);
 
         System.out.println(goblin.getDefense());
@@ -95,10 +95,6 @@ class CORExerciseDemo
 }
 
 /* Instructor solution
-package com.activemesa.behavioral.chainofresponsibility.exercise;
-
-import java.util.ArrayList;
-import java.util.List;
 
 abstract class Creature
 {

@@ -54,3 +54,14 @@ The files in this repository are based on the material and exercises from the Ud
 - [Duplicate Users](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/Users.java)
 - [Text Formatting](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/TextFormatting.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/flyweight/FlyeweightCodingExercise.java)
+### Proxy
+- [Protection Proxy](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/proxy/ProtectionProxy.java)
+- [Property Proxy](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/proxy/PropertyProxy.java)
+- [Dynamic Proxy for Logging](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/proxy/DynamicLoggingProxy.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/structural/proxy/exercise/ProxyCodingExercise.java)
+## Behavioral Patterns
+### Chain of Responsibility
+- [Method Chain](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/MethodChain.java)
+- [Broker Chain](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/BrokerChain.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/exercise/CORCodingExercise.java)
+
