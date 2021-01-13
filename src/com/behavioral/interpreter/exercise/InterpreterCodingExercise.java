@@ -1,6 +1,15 @@
+/*
+Exercise for interpreter pattern section
+Write an expression processor for simple numeric expressions. Constraints:
+- Only integral values, single-letter variables, and + and - operators allowed
+- No need for support braces or other operations
+- If a variable is not found in the list of variables, or if we encounter a variable with more than one letter, return 0
+- In case of any parsing failure, return 0
+ */
+
+
 package behavioral.interpreter.exercise;
 
-// Exercise for interpreter pattern section
 
 import java.util.HashMap;
 import java.util.Map;
@@ -107,21 +116,21 @@ class ExpressionProcessor
             else root.right.value = ch;
         }
         // PARSING STAGE - calculate result
-        return result = traverse(root);
+        return result = traverseTree(root);
     }
 
-    // Traverse tree recursively till you hit a leaf
-    int traverse (Tree tree)
+    // Traverse tree recursively till you hit a leaf, then return result
+    int traverseTree (Tree tree)
     {
         int result = 0;
         if (tree.type == null) result = (Integer) tree.value;
         else{
             switch (tree.type) {
                 case ADDITION:
-                    result = traverse(tree.left) + traverse(tree.right);
+                    result = traverseTree(tree.left) + traverseTree(tree.right);
                     break;
                 case SUBTRACTION:
-                    result = traverse(tree.left) - traverse(tree.right);
+                    result = traverseTree(tree.left) - traverseTree(tree.right);
                     break;
             }
         }
