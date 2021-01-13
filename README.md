@@ -64,4 +64,4 @@ The files in this repository are based on the material and exercises from the Ud
 - [Method Chain](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/MethodChain.java)
 - [Broker Chain](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/BrokerChain.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/chainofresponsibility/exercise/CORCodingExercise.java)
-
+- [Exercise for this section (refactored)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/interpreter/exercise/InterpreterExerciseRefactor.java)
