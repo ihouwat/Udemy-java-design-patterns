@@ -74,3 +74,4 @@ The files in this repository are based on the material and exercises from the Ud
 ### Iterator
 - [Tree Traversal (using Iterable and Iterator interfaces)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/TreeTraversal.java)
 - [Array-Backed Properties](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/ArrayBackedProperties.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/IteratorCodingExercise.java)
