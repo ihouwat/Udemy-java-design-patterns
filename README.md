@@ -75,3 +75,7 @@ The files in this repository are based on the material and exercises from the Ud
 - [Tree Traversal (using Iterable and Iterator interfaces)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/TreeTraversal.java)
 - [Array-Backed Properties](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/ArrayBackedProperties.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/iterator/IteratorCodingExercise.java)
+### Mediator
+- [Chat Room example](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/mediator/MediatorChatRoom.java)
+- [Event Broker with Reactive Extensions](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/mediator/ReactiveExtensionsEventBroker.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/mediator/MediatorCodingExercise.java)
