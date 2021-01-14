@@ -9,11 +9,11 @@ import java.util.regex.Pattern;
 
 
 // Object to sift integers from operators
-class Node<T>
+class Store
 {
     protected boolean firstPass;
     protected Integer integer;
-    protected T operator;
+    protected String operator;
     Type type = Type.NOTHING;
 
     enum Type {
@@ -42,7 +42,7 @@ class ExpressionProcessorRefactored {
     public int calculate(String expression)
     {
         String [] tokens = expression.split(""); // collect expressions in array
-        Node root = new Node();
+        Store store = new Store();
         int result = 0; // Final result
 
         // Check for consecutive single-letter variables
@@ -54,38 +54,38 @@ class ExpressionProcessorRefactored {
         {
             if (tokens[i].matches("[+-]")) // If an operator
             {
-                root.operator = tokens[i];
-                root.type = tokens[i].equals("+")
-                        ? Node.Type.ADDITION
-                        : Node.Type.SUBTRACTION;
+                store.operator = tokens[i];
+                store.type = tokens[i].equals("+")
+                        ? Store.Type.ADDITION
+                        : Store.Type.SUBTRACTION;
             }
             else if(tokens[i].matches("[0-9a-z]")) // If an alphanumeric character
             {
                 Integer num = tryParse(tokens[i]);
                 if(num == null) return 0; // if single-letter variable not in hash map, end method
                 // First case
-                if(root.firstPass == false)
+                if(store.firstPass == false)
                 {
                     result += num;
-                    root.firstPass = true;
+                    store.firstPass = true;
                     continue;
                 }
-                else if(root.integer == null) root.integer = num;
+                else if(store.integer == null) store.integer = num;
             }
 
-            if(root.integer != null && root.type != Node.Type.NOTHING ) // Make calculation
+            if(store.integer != null && store.type != Store.Type.NOTHING ) // Make calculation
             {
-                switch (root.type)
+                switch (store.type)
                 {
                     case ADDITION:
-                        result += root.integer;
+                        result += store.integer;
                         break;
                     case SUBTRACTION:
-                        result -= root.integer;
+                        result -= store.integer;
                         break;
                 }
-                root.integer = null; // reset node number
-                root.type = Node.Type.NOTHING; // reset node type
+                store.integer = null; // reset node number
+                store.type = Store.Type.NOTHING; // reset node type
             }
         }
         return result;
