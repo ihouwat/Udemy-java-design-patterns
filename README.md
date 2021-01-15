@@ -80,5 +80,5 @@ The files in this repository are based on the material and exercises from the Ud
 - [Event Broker with Reactive Extensions](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/mediator/ReactiveExtensionsEventBroker.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/mediator/MediatorCodingExercise.java)
 ### Memento
-- [Memento]()
-- [Exercise for this section - also uses Prototype pattern]()
+- [Memento](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/memento/Memento.java)
+- [Exercise for this section - also uses Prototype pattern](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/memento/MementoCodingExercise.java)
