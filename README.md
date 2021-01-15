@@ -82,3 +82,7 @@ The files in this repository are based on the material and exercises from the Ud
 ### Memento
 - [Memento](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/memento/Memento.java)
 - [Exercise for this section - also uses Prototype pattern](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/memento/MementoCodingExercise.java)
+### Null Object
+- [Basic Null Object](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/NullObject.java)
+- [Dynamic Null Object](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/dynamicnullobject/DynamicNullObject.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/exercise/NullObjectCodingExercise.java)
