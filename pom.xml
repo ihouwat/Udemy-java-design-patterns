@@ -56,6 +56,12 @@
             <artifactId>rxjava</artifactId>
             <version>2.2.20</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.springframework.statemachine/spring-statemachine-core -->
+        <dependency>
+            <groupId>org.springframework.statemachine</groupId>
+            <artifactId>spring-statemachine-core</artifactId>
+            <version>2.2.1.RELEASE</version>
+        </dependency>
     </dependencies>
 
 </project>
