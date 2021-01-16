@@ -91,3 +91,8 @@ The files in this repository are based on the material and exercises from the Ud
 - [Event Class Approach](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/events/HandmadeEvents.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/ObserverCodingExercise.java)
 - [Instructor solution to exercise](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/exerciseinstructorsolution/ObserverExerciseInstructorSolution.java)
+### State
+- [Classic GoF implementation](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/state/classic/ClassicStateImpl.java)
+- [Handmade state (more modern)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/state/handmade/Handmadestate.java)
+- [Spring Framework State Machine](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/state/spring/SpringStateMachine.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/state/StateCodingExercise.java)
