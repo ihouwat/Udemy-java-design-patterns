@@ -86,3 +86,8 @@ The files in this repository are based on the material and exercises from the Ud
 - [Basic Null Object](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/NullObject.java)
 - [Dynamic Null Object](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/dynamicnullobject/DynamicNullObject.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/nullobject/exercise/NullObjectCodingExercise.java)
+### Observer
+- [Observer and Observable](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/ObserverAndObservable.java)
+- [Event Class Approach](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/events/HandmadeEvents.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/ObserverCodingExercise.java)
+- [Instructor solution to exercise](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/observer/exerciseinstructorsolution/ObserverExerciseInstructorSolution.java)
