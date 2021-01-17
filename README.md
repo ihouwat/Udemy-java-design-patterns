@@ -99,3 +99,6 @@ The files in this repository are based on the material and exercises from the Ud
 ### Strategy
 - [Dynamic and Static Implementations](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/strategy/DynamicAndStaticStrategy.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/strategy/StrategyCodingExercise.java)
+### Template
+- [Template method](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/template/Template.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/template/TemplateCodingExercise.java)
