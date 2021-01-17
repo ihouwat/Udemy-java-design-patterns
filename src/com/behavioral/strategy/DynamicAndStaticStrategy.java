@@ -1,4 +1,4 @@
-// Strategy pattern - dynamic - example outputs in different formats
+// Strategy pattern - example outputs a list in different formats using both dynamic and static patterns
 
 package behavioral.strategy;
 
@@ -104,7 +104,7 @@ class TextProcessor<LS extends ListStrategy>
     }
 }
 
-class DynamicStrategyDemo
+class StrategyDemo
 {
     public static void main(String[] args)
     {
