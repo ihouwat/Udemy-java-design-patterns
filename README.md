@@ -102,3 +102,9 @@ The files in this repository are based on the material and exercises from the Ud
 ### Template
 - [Template method](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/template/Template.java)
 - [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/template/TemplateCodingExercise.java)
+### Visitor
+- [Intrusive Visitor](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/visitor/intrusive/IntrusiveVisitor.java)
+- [Reflective Visitor](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/visitor/reflective/ReflectiveVisitor.java)
+- [Classic Visitor (Double Dispatch)](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/visitor/classic/ClassicVisitor.java)
+- [Acyclic Visitor](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/visitor/acyclic/AcyclicVisitor.java)
+- [Exercise for this section](https://github.com/ihouwat/Udemy-java-design-patterns/blob/master/src/com/behavioral/visitor/exercise/VisitorCodingExercise.java)
