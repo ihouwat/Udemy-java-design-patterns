@@ -122,6 +122,6 @@ class VisitorExerciseDemo
         ExpressionPrinter ep2 = new ExpressionPrinter();
 
         ep2.visit(expr);
-        System.out.println(ep2);
+        System.out.println(ep2); // (2+3)*4
     }
 }
